@@ -2,13 +2,15 @@
 
 ## Description
 
-Decode silk v3 audio files (like wechat amr files, qq slk files) and convert to other format.
+Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format.
 
 The program for Windows users.
 
 Batch conversion support.
 
 Also support encode to silk v3 (Need `silk_v3_encoder`), compatible with QQ/Wechat.
+
+Wechat mini program audio conversion support.
 
 ## Requirement
 
@@ -32,17 +34,17 @@ Also you can download the [full version](https://dl.kn007.net/directlink/silk2mp
 
 ## Screenshots
 
-![screenshot](/windows/screenshots/20160928221818.png?raw=true "Screenshot")
+![screenshot](/windows/screenshots/20170528161558.png?raw=true "Screenshot")
 
 [More screenshots](/windows/screenshots/)
 
 ## Hash
 
-`MD5: C6FBF5C27735A15BE893535038B279AA`
+MD5: 3CD629B99679C6CEDA6C0B0D4F6084BB
 
-`SHA1: DF916E7320A21796622B49B9B88D961C511054A3`
+SHA1: C659B6B015714DC426619A8ECE1D6D19217113CC
 
-`CRC32: C3345C9D`
+CRC32: 84A8F4B1
 
 ## Notice
 
@@ -73,16 +75,18 @@ Alipay: kn007#126.com (Change # to @)
 
 [More(Like Wechat, Tenpay, etc.)](https://kn007.net/donate/) 
 
-***
+*** 
 
 ## 中文说明
-解码silk v3音频文件（类似微信的amr文件、QQ的slk文件）并转换为其他音频格式。
+解码silk v3音频文件（类似微信的amr和aud文件、QQ的slk文件）并转换为其他音频格式。
 
 在Windows平台可用的应用程序。
 
 支持批量转换。
 
 支持将文件编码为silk v3音频文件（需要`silk_v3_encoder`），兼容QQ、微信。
+
+支持转换微信小程序语音文件，可编码或解码。
 
 ## 依赖组件
 
@@ -106,17 +110,17 @@ Alipay: kn007#126.com (Change # to @)
 
 ## 程序截图
 
-![screenshot](/windows/screenshots/20160928221726.png?raw=true "Screenshot")
+![screenshot](/windows/screenshots/20170528161523.png?raw=true "Screenshot")
 
 [更多截图](/windows/screenshots/)
 
 ## 程序鉴定
 
-`MD5: C6FBF5C27735A15BE893535038B279AA`
+MD5: 3CD629B99679C6CEDA6C0B0D4F6084BB
 
-`SHA1: DF916E7320A21796622B49B9B88D961C511054A3`
+SHA1: C659B6B015714DC426619A8ECE1D6D19217113CC
 
-`CRC32: C3345C9D`
+CRC32: 84A8F4B1
 
 ## 其他提示
 

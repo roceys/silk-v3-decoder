@@ -1,5 +1,35 @@
 ## ChangeLog
 
+<b>Version 1.0.2.7</b> (19 Feb 2019)
+ * Fix a bug.
+
+<b>Version 1.0.2.6</b> (14 Feb 2019)
+ * Repack application.
+
+<b>Version 1.0.2.5</b> (01 Sept 2017)
+ * Optimized code.
+
+<b>Version 1.0.2.4</b> (22 Aug 2017)
+ * Fix some bugs.
+
+<b>Version 1.0.2.3</b> (22 Aug 2017)
+ * Fix some bugs.
+ * Remove drag and drop function.
+
+<b>Version 1.0.2.2</b> (19 Aug 2017)
+ * Fix some bugs.
+
+<b>Version 1.0.2.1</b> (28 Jun 2017)
+ * Add files to listview via drag and drop.
+
+<b>Version 1.0.2.0</b> (28 May 2017)
+ * Add AMR header fix checkbox.
+ * Wechat mini program audio conversion support.
+ * Fix some bugs.
+
+<b>Version 1.0.1.2</b> (19 Feb 2017)
+ * Force frequency, max CBR bitrate output(for mp3).
+
 <b>Version 1.0.1.1</b> (03 Nov 2016)
  * Add custom encode output format support.
  * Fix some bugs.
@@ -38,6 +68,36 @@
 
 
 ## 更新历史
+
+2019-02-14发布1.0.2.7版本：
+ * 修复上一版本列表无法显示问题。
+
+2019-02-14发布1.0.2.6版本：
+ * 重新打包程序。
+
+2017-09-01发布1.0.2.5版本：
+ * 优化代码。
+
+2017-08-22发布1.0.2.4版本：
+ * 修复一些Bug。
+
+2017-08-22发布1.0.2.3版本：
+ * 修复一些Bug。
+ * 去掉拖拽功能。
+
+2017-08-19发布1.0.2.2版本：
+ * 修复一些Bug。
+
+2017-06-28发布1.0.2.1版本：
+ * 支持拖拽文件进列表框替换待转换文件列表。
+
+2017-05-28发布1.0.2.0版本：
+ * “尝试强制AMR编码解码文件”变为可选项。
+ * 支持微信小程序语音转换（包括编码、解码）。
+ * 修复一些Bug。
+
+2017-02-19发布1.0.1.2版本：
+ * 强制输出固定频率和最大化比特率（主要针对MP3）。
 
 2016-11-03发布1.0.1.1版本：
  * 添加编码输出格式自定义。
